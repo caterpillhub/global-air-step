@@ -1,0 +1,21 @@
+{
+  "airports_raw_count": 7698,
+  "airports_clean_count": 7697,
+  "airport_primary_unique": true,
+  "routes_raw_count": 67663,
+  "routes_after_resolution": 67092,
+  "routes_unresolved_logged": 571,
+  "routes_dropped_distance": 0,
+  "top_unresolved_reasons": {
+    "dst_unresolved:NTG|ID:5475.0": 18,
+    "src_unresolved:NTG|ID:5475.0": 18,
+    "dst_unresolved:MRA|ID:5804.0": 12,
+    "src_unresolved:MRA|ID:5804.0": 12,
+    "dst_unresolved:MLH|ID:nan": 12,
+    "src_unresolved:MLH|ID:nan": 11,
+    "src_unresolved:FSZ|ID:6476.0": 10,
+    "dst_unresolved:FSZ|ID:6476.0": 10,
+    "src_unresolved:GSM|ID:5712.0": 8,
+    "dst_unresolved:GSM|ID:5712.0": 8
+  }
+}
